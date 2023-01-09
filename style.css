@@ -95,7 +95,7 @@ h1 {
         height: 50.9rem;
         border-radius: 2.3rem;
         box-shadow: 0px 50px 50px -20px rgba(53, 18, 122, 0.497159);
-        background-image: url(/images/illustration-woman-online-desktop.svg), url(/images/bg-pattern-desktop.svg);
+        background-image: url(images/illustration-woman-online-desktop.svg), url(images/bg-pattern-desktop.svg);
         background-position: -8.406rem 7.081rem, left -58rem  top -29.5rem;
         background-repeat: no-repeat;
     }
