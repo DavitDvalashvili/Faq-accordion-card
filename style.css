@@ -17,29 +17,57 @@ body {
 
 #faq-card {
     max-width: 32.7rem;
+    width: 32.7rem;
     border-radius: 2.3rem;
+    position: relative;
     background-color: #fff;
 }
-#faq-card div {
+#woman-online-mobile {
+    height: 19.937rem;
+    width: 100%;
+    display: inline-block;
+    margin: 0 auto;
+    position: absolute;
+    top: -11.9rem;
+}
+#bg-pattern-mobile {
+    display: block;
+    width: 24rem;
+    margin: 0 auto;
+}
+
+#faq-card > div {
     border-bottom: solid #E8E8EA 0.1rem;
     margin: 0 2.4rem;
+    padding-bottom: 0.5rem;
 }
-#faq-card div:nth-last-of-type(1){
+#faq-card > div:nth-last-of-type(1){
     margin-bottom: 4.8rem;
 }
 h1 {
     text-align: center;
-    margin: 13.2rem 0 4rem 0;
+    margin: 2.8rem 0 2.1rem 0;
 }
 .question {
     font-size: 1.3rem;
     font-weight: 40rem;
     line-height: 1.6rem;
     color: #4B4C5F;
+    margin: 1.9rem 0 1.3rem 0.1rem;
+}
+.arrow {
+    vertical-align: middle;
+}
+.ans-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 .answer {
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
+    margin-bottom: 1.1rem;
     color: #787887;
+    display: none;
 }
