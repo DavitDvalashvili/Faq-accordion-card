@@ -24,16 +24,16 @@ body {
 }
 #woman-online-mobile {
     height: 19.937rem;
-    width: 100%;
-    display: inline-block;
+    width: 24rem;
     margin: 0 auto;
     position: absolute;
     top: -11.9rem;
+    left: 4.35rem;
 }
 #bg-pattern-mobile {
     display: block;
     width: 24rem;
-    margin: 0 auto;
+    margin: 1.142rem auto 0 auto;
 }
 #box {
     display: none;
@@ -61,6 +61,11 @@ h1 {
     line-height: 1.6rem;
     color: #4B4C5F;
     margin: 1.9rem 0 1.3rem 0.1rem;
+}
+.question:hover {
+    color: #F47B56;
+    cursor: pointer;
+    transition: all 0.5s ease;
 }
 .arrow {
     vertical-align: middle;
