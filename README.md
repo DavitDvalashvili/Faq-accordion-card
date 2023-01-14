@@ -12,8 +12,8 @@ This is a solution to the [Faq-accordion-card]
 
 
 
-### Screenshot
 ![](design/desktop-preview.jpg)
+
 
 ### Links
 
@@ -39,6 +39,5 @@ It is my very first project with javascript, Maybe there are some features that 
 - Github profile - [Add your name here](https://github.com/DavitDvalashvili)
 - Linkedin profile - [Add your name here](https://www.linkedin.com/in/davit-dvalashvili-0421b6253)
 - Email - [@yourusername](davitdvalashvili1996@gmail.com)
-
 
 
