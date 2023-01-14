@@ -57,7 +57,7 @@ h1 {
 }
 .question {
     font-size: 1.3rem;
-    font-weight: 40rem;
+    font-weight: 400;
     line-height: 1.6rem;
     color: #4B4C5F;
     margin: 1.9rem 0 1.3rem 0.1rem;
@@ -116,4 +116,3 @@ h1 {
 
 
 }
-
